@@ -1,5 +1,5 @@
 *{
-    font-size: 12px;
+    font-size: 16px;
 }
 body {
     background-color: rgb(238, 243, 246);
@@ -24,4 +24,14 @@ font-size:150%;
 }
 p{
 text-align: justify;
+}
+#intro{
+    border: 1px solid #ccc;
+    color: rgb(194, 233, 220);
+}
+.links{
+    width: fit-content;
+}
+Input[type="text"]{
+    font-size: 14px;
 }
