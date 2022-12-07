@@ -1,0 +1,27 @@
+*{
+    font-size: 12px;
+}
+body {
+    background-color: rgb(145, 208, 239);
+}
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
+h1 {
+    background-color:beige; 
+    color: rgb(51, 37, 138); 
+    text-align:center; 
+    font-size:300%;
+}
+h2{
+color: darkolivegreen; 
+font-size:150%;
+}
+p{
+text-align: justify;
+}
