@@ -1,37 +1,50 @@
-*{
+* {
     font-size: 16px;
 }
+
 body {
-    background-color: rgb(238, 243, 246);
+    background-color: rgb(243, 236, 236);
 }
+
 aside {
-  width: 30%;
-  padding-left: 15px;
-  margin-left: 15px;
-  float: right;
-  font-style: italic;
-  background-color: lightgray;
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
 }
+
 h1 {
-    background-color:beige; 
-    color: rgb(51, 37, 138); 
-    text-align:center; 
-    font-size:300%;
+    background-color: beige;
+    color: rgb(51, 37, 138);
+    text-align: center;
+    font-size: 300%;
 }
-h2{
-color: darkolivegreen; 
-font-size:150%;
+
+h2 {
+    color: darkolivegreen;
+    font-size: 150%;
 }
-p{
-text-align: justify;
+
+p {
+    text-align: justify;
 }
-#intro{
+
+#intro {
     border: 1px solid #ccc;
     color: rgb(194, 233, 220);
 }
-.links{
+
+.links {
     width: fit-content;
 }
-Input[type="text"]{
+
+Input[type="text"] {
     font-size: 14px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
